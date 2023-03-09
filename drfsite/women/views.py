@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.forms import model_to_dict
-<<<<<<< HEAD
+
 from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
